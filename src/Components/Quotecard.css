@@ -1,0 +1,21 @@
+.quotecarddiv{
+width: 90%;
+padding: 2%;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+text-align: center;
+margin: 3%;
+margin-top: 0%;
+}
+
+.descpara{
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 1.8rem;
+}
+
+
+.quotecarddiv span{
+ 
+    color: #877480;
+
+}
